@@ -38,4 +38,3 @@ NOTES!
     ClassMethodNotFoundException will be thrown.
 
 5. Enjoy.
-6. 
