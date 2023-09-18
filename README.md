@@ -37,4 +37,5 @@ NOTES!
  3. If you try to input action, that does not exist,
     ClassMethodNotFoundException will be thrown.
 
+
 5. Enjoy.
